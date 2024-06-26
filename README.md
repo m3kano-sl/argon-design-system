@@ -25,6 +25,7 @@
 <ul>
   <li><a href="#demo">Demo</a></li>
   <li><a href="#quick-start">Quick Start</a></li>
+  <li><a href="#deploy">Deploy</a></li>
   <li><a href="#documentation">Documentation</a></li>
   <li><a href="#file-structure">File Structure</a></li>
   <li><a href="#browser-support">Browser Support</a></li>
@@ -86,6 +87,12 @@
   </li>
   <li>Install with Yarn: <code class="highlighter-rouge">yarn add argon-design-system-free</code></li>
 </ul>
+
+<h2 id="deploy">Deploy</h2>
+
+<p>:rocket: You can deploy your own version of the template to Genezio with one click:
+
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/argon-design-system&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)</p>
 
 <h2 id="documentation">Documentation</h2>
 
